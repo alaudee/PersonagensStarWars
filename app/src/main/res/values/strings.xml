@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PersonagensStarWars</string>
+    <string name="titulo">Menu Principal</string>
+    <string name="luke">Luke Skywalker</string>
+    <string name="anakin">Anakin Skywalker</string>
+    <string name="texto_luke">Luke Skywalker is a main character in the Star Wars franchise. He was the protagonist of the original trilogy and one of the secondary protagonists in the sequel trilogy. Finding himself apprenticed to the Jedi Masters, Obi-Wan Kenobi and Yoda, he soon becomes an important figure in the Rebel Alliance's struggle against the Galactic Empire. In The Force Awakens, he is the Grand Master of the New Jedi Order and the sole existing Jedi until in The Last Jedi, his new apprentice, Rey, assumes the mantle after his death.</string>
+    <string name="texto_anakin">Anakin was a legendary Force-user who served the Galactic Republic as a Jedi Knight, and later served the Galactic Empire as a Sith Lord. He was the son of Shmi Skywalker, later in life he became the secret husband of Padmé Amidala, and the father of Luke Skywalker and Leia Organa. After his fall to the Dark side, he became the Sith Lord Darth Vader.</string>
+</resources>
+
